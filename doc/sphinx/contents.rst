@@ -223,4 +223,8 @@ The example programs can be found under the ``software/`` directory.
 
 - mem-latency
 
-  - A memory test that measure the latency at different cache layers and memory blocks
+  - A memory test that measure the latency at different cache layers and memory blocks.
+
+- example-hardware-performance-monitor
+
+  -Demonstrates usage of the Risc-V hardware performance counter APIs.

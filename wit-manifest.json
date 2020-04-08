@@ -5,7 +5,7 @@
         "source": "git@github.com:sifive/freedom-devicetree-tools.git"
     },
     {
-        "commit": "6fd4b0a4e1c12b9ab159aea42fbe5ff7e6f7e81f",
+        "commit": "a99adeefcb95a9aa1b0ea7925b71459279729e80",
         "name": "freedom-metal",
         "source": "git@github.com:sifive/freedom-metal.git"
     },
@@ -20,7 +20,7 @@
         "source": "git@github.com:sifive/devicetree-overlay-generator.git"
     },
     {
-        "commit": "9cbbc90dd67bdb2615a153f0c8217e706663ea5c",
+        "commit": "0fff38012af8ab7dc1715d08e5ff3456847ceb65",
         "name": "ldscript-generator",
         "source": "git@github.com:sifive/ldscript-generator.git"
     },
@@ -205,7 +205,7 @@
         "source": "git@github.com:sifive/benchmark-mem-latency.git"
     },
     {
-        "commit": "4ea863345d4f77a6aabdb06da4443d7d7abc7f88",
+        "commit": "4edade22d4f16a8738fbe527a18df48aecc07e3a",
         "name": "FreeRTOS-metal",
         "source": "git@github.com:sifive/FreeRTOS-metal.git"
     },

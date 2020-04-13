@@ -23,10 +23,11 @@ endif
 PROGRAM ?= hello
 TARGET ?= $(shell find $(TARGET_ROOT)/bsp/* -type d | head -n 1 | rev | cut -d '/' -f 1 | rev)
 
-# The configuration defaults to Debug. Valid choices are:
+# The configuration defaults to Simulation. Valid choices are:
+#  - simulation
 #  - debug
 #  - release
-CONFIGURATION ?= debug
+CONFIGURATION ?= simulation
 
 # Setup differences between host platforms
 ifeq ($(OS),Windows_NT)
